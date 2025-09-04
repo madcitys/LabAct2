@@ -33,8 +33,7 @@ It provides CRUD operations for managing **Students** and **Courses**.
 ## Installation & Setup
 
 1. **Clone the repo**
-   ```bash
-   git clone https://github.com/madcitys/LabAct2.git
+   git clone https://github.com/madcitys/lab-crud-api.git
    cd LabAct2
 2. **Install dependencies**
    npm install
